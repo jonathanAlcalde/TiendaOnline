@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tienda Online</string>
+    <string name="ayuda_codigo">Código de cliente</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="bienvenida">Bienvenid@</string>
+    <string name="ver_carrito">Ver Carrito</string>
+</resources>
